@@ -3,4 +3,4 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke
 [submodule "themes/hacker"]
 	path = themes/hacker
-	url = https://github.com/patrickodacre/gohugo-hacker
+	url = https://github.com/patrickodacre/patrickwho-hacker-theme
